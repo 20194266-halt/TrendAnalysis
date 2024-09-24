@@ -22,3 +22,12 @@ Elasticsearch is a powerful search and analytics engine, while Kibana provides a
 2. **Dashboards:**
    - Combine multiple visualizations into a single dashboard by navigating to the **Dashboard** tab.
    <img src="/Img/dashboard.png" >
+3. **Search Engine**
+### Project Overview
+
+The **Twitter Search Engine** is a web-based application that allows users to search through a collection of Twitter data stored in Elasticsearch. 
+
+The project is built with a **Node.js** backend that interfaces with Elasticsearch to retrieve data and serves static files for the frontend. The frontend allows users to search tweets using a search bar and displays the results dynamically.
+<img src="/Img/searchEngine.png" >
+
+

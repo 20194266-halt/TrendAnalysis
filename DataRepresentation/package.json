@@ -1,0 +1,16 @@
+{
+  "name": "datarepresentation",
+  "version": "1.0.0",
+  "description": "This project sets up a data representation layer that connects Elasticsearch to Kibana, allowing you to visualize and analyze your data effectively.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@elastic/elasticsearch": "^8.15.0",
+    "express": "^4.21.0"
+  }
+}
